@@ -2,6 +2,4 @@ streamlit
 tensorflow-cpu
 pillow
 numpy
-os
-json
 matplotlib
