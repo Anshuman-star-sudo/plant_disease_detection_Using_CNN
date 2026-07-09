@@ -4,7 +4,7 @@ A high-performance, deep learning-based web application engineered to diagnose c
 
 ## 🚀 Live Application
 Experience the real-time web deployment here:  
-👉 **[Live App Link]**[](https://plantdiseasedetectionusingcnn-vmvjy2ts8rtp82rvaj9rfc.streamlit.app/)
+👉 https://plantdiseasedetectionusingcnn-vmvjy2ts8rtp82rvaj9rfc.streamlit.app/
 
 ---
 
